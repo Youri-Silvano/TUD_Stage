@@ -5,8 +5,8 @@ project:
   title: Template
   # description:
   # keywords: []
-  authors: [Freek Pols]
-  github: https://github.com/TUD-SEEd/template # Change this URL to your GitHub repository
+  authors: [Youri-Silvano]
+  github: https://github.com/Youri-Silvano/TUD_Stage # Change this URL to your GitHub repository
   downloads:
     - id: output-pdf
   exports:
@@ -22,5 +22,5 @@ site:
     logo: Figuren/site_logo.png
     folders: false
   actions:
-    - title: report issue
-      url: https://github.com/TUD-SEEd/template/issues
+    - title: feedback
+      url: https://github.com/Youri-Silvano/TUD_Stage/issues
