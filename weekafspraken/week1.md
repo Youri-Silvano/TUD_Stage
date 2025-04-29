@@ -17,7 +17,7 @@ De volgende afspraken zijn er voor deze week gemaakt.
     - [ ] Betadecanen proposal
 - [ ] Uitvoeren experiment Atwood ([link naar experiment](https://natuurkunde.github.io/DoedeFysica/atwood)):
     - [ ] Met pocket voyager
-    - [ ] Met stopwatch
-    - [ ] Met lichtpoortje
+    - [x] Met stopwatch
+    - [x] Met lichtpoortje
     - [ ] Uitwerken in een Jupyter Notebook
 - [ ] Data presenteren in Doe*de*Fysica
