@@ -20,3 +20,4 @@ De volgende afspraken zijn er voor deze week gemaakt.
     - [ ] Met stopwatch
     - [ ] Met lichtpoortje
     - [ ] Uitwerken in een Jupyter Notebook
+- [ ] Data presenteren in Doe*de*Fysica
