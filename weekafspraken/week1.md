@@ -2,7 +2,7 @@
 De volgende afspraken zijn er voor deze week gemaakt.
 ## Takenlijst
 
-- [ ] Uitspreken verwachtingen & maken werkafspraken
+- [x] Uitspreken verwachtingen & maken werkafspraken
 - [x] Afdeling leren kennen
 - [x] Inlezen Jupyter Book / MyST / Teachbooks
 - [x] Installeren software ([startgids](https://tud-seed.github.io/betasteunpunt/main/start.html))
