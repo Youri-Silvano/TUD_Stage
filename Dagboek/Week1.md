@@ -29,11 +29,19 @@ Ik heb gemerkt dat ik nog te veel in word bijhoud en in anaconda schrijf. Ik wil
 ## Donderdag 1 mei 2025
 
 Vandaag starte ik de dag met het bespreken van mijn meetresulateten. Freek gaf de tip dat de valversnelling $g$ niet als fitparameter moest worden ingezet maar als constante alvast moest worden worden ingesteld. Tegen verwachting werdt de grafiek met 1 parameter minder juist nauwkeuriger. We hebben nog meer besproken over data analyse en hoe je dat kan aanpakken. Ik ging op gevoel bijvoorbeeld zoeken naar een mogelijkse offset in het s(t) model. Hij heeft mij uitgelecht dat je het controleren van het model beter kan doen door het residu van de fit te analyseren. Ook in de code van de analyse zaten nog verbeter punten. Ondanks dat het met eenheid analyse geen doorreken fouten zou opleveren als ik de antwoorden in grammene zou berekenen is het voor netheid toch de bedoeling om je antwoorden altijd in SI-eenheden te presenteren. Voor het zoveel mogelijk leesbaar houden van de grafiek is het van belang om je grenzen van x en y-as in te stellen op (ongeveer) 0,95 van je minimale waarde en 1,05 van je maximale waarde. Je functie is goed als het residu (data - fit) zoveel mogelijk op 0 ligt. als dit constant erboven ligt zou je een offset parameter in je model moeten verwerken. 
-
+###
 Na deze bespreking woonde ik een gesprek met een extern universitair docent bij die geintresseerd was in de jupyter books en heb ik voor mijzelf opgefrist waar je het voor kan gebruiken, waarvoor het handig is, en diverse voorbeelden gezien wat je er allemaal mee kan. Ook heeft de TU delft op de website een open source gegeven aan textbooks die online zijn geplaatst waar ik weer inspiratie uit kan halen. Een collega in de werkkamere heb ik mee gesproken die origineel in het amerikaanse universitaire onderwijs werkt. Wat haar werk bijzonder maakt is dat zei op een minder exculsieve universiteit onderzoek doet naar hoe studenten samen kunnen werken in een textbook en comments en highlights kunnen achterlaten en van elkaar zo kunnen leren. Aangezien heel veel onderzoek daar wordt gedaan op bijvoorbeeld een MIT of een Ohio university waar top studenten zitten is haar onderzoek relevant of het ook toepasselijk is voor studenten een breder scala studenten, zowel top studenten als minder presterende studenten zitten aan die universiteit samen.
+###
+Bij het opnieuw analyseren van de data heb ik de valversnelling genomen als constante wat al opvallend een nauwkeurigere bepaling gaf van m_1. Bij het analyseren van het resedu zag ik een meer systematische dan willekeurige vorm in de grafiek de laatste 2 massa. Dit verklaarde ook de hogere onnauwkeurigheid in de coeficienten en dat ze uitschoten in de a(m_2) grafiek. bij het opnieuw meten was het residu herstelt en weer een willekeurig patroon. De onzekerheid in de a was hetzelfde als bij de andere grafieken en de punten lagen op de curve fit. Het mooiste waar ik dus vandaag achter ben gekomen is hoe het kan zijn dat data op de trend oogt te liggen, maar met residu analyse je kan achterhalen of er in die kleine afwijking toch een patroon verstopt zit. Zo kan je uitschieters en systematische fouten snel herkennnen.
+###
 
-Bij het opnieuw analyseren van de data heb ik de valversnelling genomen als constante wat al opvallend een nauwkeurigere bepaling gaf van m_1. Bij het analyseren van het resedu zag ik een meer systematische dan willekeurige vorm in de grafiek de laatste 2 massa. Dit verklaarde ook de hogere onnauwkeurigheid in de coeficienten en dat ze uitschoten in de a(m_2) grafiek. bij het opnieuw meten was het residu herstelt en weer een willekeurig patroon. De onzekerheid in de a was hetzelfde als bij de andere grafieken en de punten lagen op de curve fit. Het mooiste waar ik dus vandaag achter ben gekomen is hoe het kan zijn dat data op de trend oogt te liggen, maar met residu analyse je kan achterhalen of er in die kleine afwijking toch niet een patroon verstopt zit. Zo kan je uitschieters en systematische fouten snel herkennnen.
+Plan maken: 
+1. Zelfstandig practicum opzetten uitwerken en pagina maken voor do the physics
+	
 
+2. Zelfstandig theorie onderwerp pagina van maken
+	Simulaties, tabellen, filmpjes etc. implementeren.
 
+3. 
 
 
