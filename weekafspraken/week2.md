@@ -8,4 +8,5 @@ De volgende afspraken zijn er voor deze week gemaakt.
 - [ ] Afspraak maken middelbare school in Delft (meeloopdag & gesprek practica)
 - [ ] Practicum 2 uitvoeren en verwerken
 - [ ] PvA schrijven voor inl. HHS
-- [ ] 
+- [ ] Pasje regelen
+- [ ] Lunch bij SEEd (dinsdag) / kennismaken
