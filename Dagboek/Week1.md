@@ -35,13 +35,11 @@ Na deze bespreking woonde ik een gesprek met een extern universitair docent bij 
 Bij het opnieuw analyseren van de data heb ik de valversnelling genomen als constante wat al opvallend een nauwkeurigere bepaling gaf van m_1. Bij het analyseren van het resedu zag ik een meer systematische dan willekeurige vorm in de grafiek de laatste 2 massa. Dit verklaarde ook de hogere onnauwkeurigheid in de coeficienten en dat ze uitschoten in de a(m_2) grafiek. bij het opnieuw meten was het residu herstelt en weer een willekeurig patroon. De onzekerheid in de a was hetzelfde als bij de andere grafieken en de punten lagen op de curve fit. Het mooiste waar ik dus vandaag achter ben gekomen is hoe het kan zijn dat data op de trend oogt te liggen, maar met residu analyse je kan achterhalen of er in die kleine afwijking toch een patroon verstopt zit. Zo kan je uitschieters en systematische fouten snel herkennnen.
 ###
 
-Plan maken: 
-1. Zelfstandig practicum opzetten uitwerken en pagina maken voor do the physics
-	
+## Vrijdag 2 mei 2025
 
-2. Zelfstandig theorie onderwerp pagina van maken
-	Simulaties, tabellen, filmpjes etc. implementeren.
+Literatuur gelezen over practica. Volgens "Hodson, 1990: A critical look at practical work in school science" volgen veel leerlingen recepten, waardoor begrip van wat ze doen achterwegen gaat. Practica wordt meestal ontworpen met als doel het ondersteunen van theorie, ontwikkelen van vaardigheden of opwekken van interesse. Maar dit gaat fout omdat er meestal geen didactisch plan achter zit. De voorkennis ontbreekt meestal, dit heeft effect op het conceptuele begrip. Ook spelen procesvaardigheden zoals observatie meten en analyseren en de wetenschappelijke redenering zoals hypothese testen, conclusie en het kritisch denken een grote rol. De standaard wetenschappelijke methode geeft ook een verkeerd beeld, het werkt in de realiteit minder lineair wat ook terug zou moeten komen in een practicum. 
 
-3. 
+###
+"Pols, Dekkers & vd Berg, 2024: Practicum, wat hebben we (ervan) geleerd?" stelt dat de vijf hoofdoelen van een practica het verdiepen van theorie is, het ontwikkelen van onderzoeksvaardigheden, het leren omgaan met meetinstrumenten, het motiveren van leerlinge en betekenis van experimentele wetenschap laten zien. Per practicum is het belangrijk om maar één naar te laten komen om verwarring te voorkomen. Verschillend pracitica vraagt verschillende aanpak; Begripspracticum, onderzoekspracticum, instrumentpracticum die ook niet door elkaar moeten worden gehaald. "Pols, 2024: The scientific graphic organizer for lab work" leert dat 
 
 
