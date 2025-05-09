@@ -1,12 +1,11 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+
 project:
   id: 7204695b-7485-4989-863c-16cf6e4db155
   title: Stage TU Delft 
-  # description:
-  # keywords: []
   authors: [Youri-Silvano]
-  github: https://github.com/Youri-Silvano/TUD_Stage # Change this URL to your GitHub repository
+  github: https://github.com/Youri-Silvano/TUD_Stage
   downloads:
     - id: output-pdf
   exports:
@@ -14,7 +13,7 @@ project:
       template: plain_latex_book 
       output: exports/book.pdf
       id: output-pdf
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
+
 site:
   template: book-theme
   options:
@@ -24,3 +23,15 @@ site:
   actions:
     - title: feedback
       url: https://github.com/Youri-Silvano/TUD_Stage/issues
+
+toc:
+  - file: index
+    title: Home
+  - file: Inhoud/index
+    title: Inhoud
+  - file: Practica Uitwerkingen/index
+    title: Practica Uitwerkingen
+  - file: weekafspraken/index
+    title: Weekafspraken
+  - file: Dagboek/index
+    title: Dagboek
