@@ -7,3 +7,6 @@ De volgende afspraken zijn er voor deze week gemaakt.
 - [ ] Afspraak middelbare school (meeloopdag)
 - [ ] Verwerven eisen en wensen vanuit werkveld
 - [ ] Uitvoeren gitaar proef
+- [ ] Colloquiem SEEd C117 12:30 (ma)
+- [ ] Gesprek met Ed (di-ochtend)
+- [ ] 
