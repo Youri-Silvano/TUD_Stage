@@ -6,4 +6,4 @@ De volgende afspraken zijn er voor deze week gemaakt.
 - [ ] Afmaken data analyse weerstand temperatuur proef
 - [ ] Afspraak middelbare school (meeloopdag)
 - [ ] Verwerven eisen en wensen vanuit werkveld
-- [ ] 
+- [ ] Uitvoeren gitaar proef
