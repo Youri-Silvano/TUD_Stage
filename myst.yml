@@ -12,8 +12,9 @@ project:
     - format: pdf
       template: plain_latex_book 
       output: exports/book.pdf
-      id: output-
-  jupyter: true
+      id: output-pdf
+  jupyter: 
+    lite: true
 
 site:
   template: book-theme
