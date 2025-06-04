@@ -30,6 +30,7 @@ toc:
     title: Home
   - file: Inhoud/index
     title: Inhoud
+  - file: Inhoud/testfile.ipynb
   - file: Practica Uitwerkingen/index
     title: Practica Uitwerkingen
   - file: weekafspraken/index
